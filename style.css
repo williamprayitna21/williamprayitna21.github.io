@@ -1,0 +1,21 @@
+body {
+  min-height: 1900px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+}
+#about {
+  background-color: #e0ffff;
+}
+#mylist {
+  background-color: #e0ffff;
+}
+
+#contacts {
+  background-color: #e0ffff;
+}
+
+section {
+  padding-top: 3rem;
+}
